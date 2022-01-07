@@ -1,0 +1,13 @@
+C:\Users\admin\source\repos\CourseWorkVar4\Services\bin\Debug\Services.dll
+C:\Users\admin\source\repos\CourseWorkVar4\Services\bin\Debug\Services.pdb
+C:\Users\admin\source\repos\CourseWorkVar4\Services\bin\Debug\Data.dll
+C:\Users\admin\source\repos\CourseWorkVar4\Services\bin\Debug\Entities.dll
+C:\Users\admin\source\repos\CourseWorkVar4\Services\bin\Debug\Newtonsoft.Json.dll
+C:\Users\admin\source\repos\CourseWorkVar4\Services\bin\Debug\Data.pdb
+C:\Users\admin\source\repos\CourseWorkVar4\Services\bin\Debug\Entities.pdb
+C:\Users\admin\source\repos\CourseWorkVar4\Services\bin\Debug\Newtonsoft.Json.xml
+C:\Users\admin\source\repos\CourseWorkVar4\Services\obj\Debug\Services.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\CourseWorkVar4\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\CourseWorkVar4\Services\obj\Debug\Services.csproj.CopyComplete
+C:\Users\admin\source\repos\CourseWorkVar4\Services\obj\Debug\Services.dll
+C:\Users\admin\source\repos\CourseWorkVar4\Services\obj\Debug\Services.pdb

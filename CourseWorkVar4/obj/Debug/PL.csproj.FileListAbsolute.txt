@@ -1,0 +1,16 @@
+C:\Users\admin\source\repos\CourseWorkVar4\CourseWorkVar4\bin\Debug\CourseWorkVar4.exe.config
+C:\Users\admin\source\repos\CourseWorkVar4\CourseWorkVar4\bin\Debug\CourseWorkVar4.exe
+C:\Users\admin\source\repos\CourseWorkVar4\CourseWorkVar4\bin\Debug\CourseWorkVar4.pdb
+C:\Users\admin\source\repos\CourseWorkVar4\CourseWorkVar4\bin\Debug\Entities.dll
+C:\Users\admin\source\repos\CourseWorkVar4\CourseWorkVar4\bin\Debug\Services.dll
+C:\Users\admin\source\repos\CourseWorkVar4\CourseWorkVar4\bin\Debug\Data.dll
+C:\Users\admin\source\repos\CourseWorkVar4\CourseWorkVar4\bin\Debug\Newtonsoft.Json.dll
+C:\Users\admin\source\repos\CourseWorkVar4\CourseWorkVar4\bin\Debug\Entities.pdb
+C:\Users\admin\source\repos\CourseWorkVar4\CourseWorkVar4\bin\Debug\Services.pdb
+C:\Users\admin\source\repos\CourseWorkVar4\CourseWorkVar4\bin\Debug\Data.pdb
+C:\Users\admin\source\repos\CourseWorkVar4\CourseWorkVar4\bin\Debug\Newtonsoft.Json.xml
+C:\Users\admin\source\repos\CourseWorkVar4\CourseWorkVar4\obj\Debug\PL.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\CourseWorkVar4\CourseWorkVar4\obj\Debug\PL.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\CourseWorkVar4\CourseWorkVar4\obj\Debug\PL.csproj.CopyComplete
+C:\Users\admin\source\repos\CourseWorkVar4\CourseWorkVar4\obj\Debug\CourseWorkVar4.exe
+C:\Users\admin\source\repos\CourseWorkVar4\CourseWorkVar4\obj\Debug\CourseWorkVar4.pdb

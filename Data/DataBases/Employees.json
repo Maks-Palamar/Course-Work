@@ -1,0 +1,61 @@
+[
+  {
+    "ID": 0,
+    "Name": "Валерій",
+    "LastName": "Ваховський",
+    "Age": 25,
+    "Email": "val@ukr.net",
+    "IdentificationCode": "1231231231",
+    "Experience": 5,
+    "SalaryAccountNumber": "1234123412341234",
+    "Unit": {
+      "ID": 0,
+      "UnitID": null,
+      "Name": null
+    },
+    "Position": {
+      "ID": 1,
+      "Name": "Адміністратор",
+      "Salary": 15000,
+      "WorkingHours": 7,
+      "Ratio": 2142.0
+    },
+    "Projects": [
+      {
+        "Name": "Корма",
+        "Status": "Виконано",
+        "Budget": 30000
+      },
+      {
+        "Name": "Каряка",
+        "Status": "Активний",
+        "Budget": 49000
+      }
+    ],
+    "ProjectsBudgetSum": 79000
+  },
+  {
+    "ID": 1,
+    "Name": "Максим",
+    "LastName": "Ющенко",
+    "Age": 22,
+    "Email": "maksu@gmail.com",
+    "IdentificationCode": "6459782340",
+    "Experience": 2,
+    "SalaryAccountNumber": "1111222244445555",
+    "Unit": {
+      "ID": 1,
+      "UnitID": "228",
+      "Name": "Адміністрація"
+    },
+    "Position": {
+      "ID": 1,
+      "Name": "Адміністратор",
+      "Salary": 15000,
+      "WorkingHours": 7,
+      "Ratio": 2142.0
+    },
+    "Projects": [],
+    "ProjectsBudgetSum": 0
+  }
+]

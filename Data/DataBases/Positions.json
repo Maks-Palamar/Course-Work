@@ -1,0 +1,37 @@
+[
+  {
+    "ID": 0,
+    "Name": "Складовщик",
+    "Salary": 11000,
+    "WorkingHours": 8,
+    "Ratio": 1375.0
+  },
+  {
+    "ID": 1,
+    "Name": "Адміністратор",
+    "Salary": 15000,
+    "WorkingHours": 7,
+    "Ratio": 2142.0
+  },
+  {
+    "ID": 3,
+    "Name": "Охоронник",
+    "Salary": 12000,
+    "WorkingHours": 8,
+    "Ratio": 1500.0
+  },
+  {
+    "ID": 4,
+    "Name": "Маркетолог",
+    "Salary": 12500,
+    "WorkingHours": 8,
+    "Ratio": 1562.0
+  },
+  {
+    "ID": 5,
+    "Name": "Системний адміністратор",
+    "Salary": 22000,
+    "WorkingHours": 6,
+    "Ratio": 3666.0
+  }
+]
